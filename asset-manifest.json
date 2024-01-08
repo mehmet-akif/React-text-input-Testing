@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//mehmet-akif.github.io/React-text-input-Testing/static/css/main.e6c13ad2.css",
+    "main.js": "/https//mehmet-akif.github.io/React-text-input-Testing/static/js/main.64b9b5c4.js",
+    "static/js/787.f80dcad3.chunk.js": "/https//mehmet-akif.github.io/React-text-input-Testing/static/js/787.f80dcad3.chunk.js",
+    "index.html": "/https//mehmet-akif.github.io/React-text-input-Testing/index.html",
+    "main.e6c13ad2.css.map": "/https//mehmet-akif.github.io/React-text-input-Testing/static/css/main.e6c13ad2.css.map",
+    "main.64b9b5c4.js.map": "/https//mehmet-akif.github.io/React-text-input-Testing/static/js/main.64b9b5c4.js.map",
+    "787.f80dcad3.chunk.js.map": "/https//mehmet-akif.github.io/React-text-input-Testing/static/js/787.f80dcad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.64b9b5c4.js"
+  ]
+}
