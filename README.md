@@ -4,10 +4,6 @@
 ## Description
 This React application is designed to demonstrate input functionality. Users can input text into an input element, and the typed text will be instantly displayed above as 'You typed: [input]'. This project primarily serves as a testing environment using Jest to validate input functionality.
 
-## Link
-
-For an interactive experience, check out the live website: 
-
 ## Key Features
 -Real-time display of user input above the input element.
 -Immediate visualization of the entered text.
